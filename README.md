@@ -2,7 +2,7 @@
 
 AI Engineer and Solutions Architect building agentic systems from Lima, Peru.
 
-Currently shipping production RAG pipelines with LangChain at TRANZACT and cost-optimized serverless platforms at UNACEM.
+Currently shipping production AI retrieval systems at TRANZACT and cost-optimized serverless platforms at UNACEM.
 
 _Build. Break. Learn. Repeat._
 

@@ -1,6 +1,6 @@
-## Sebastian Garcia ~ AI Engineer
+## Sebastian Garcia ~ Software Engineer
 
-AI Engineer and Solutions Architect building agentic systems from Lima, Peru.
+Software Engineer building agentic systems from Lima, Peru.
 
 Currently shipping production AI retrieval systems at TRANZACT and cost-optimized serverless platforms at UNACEM.
 

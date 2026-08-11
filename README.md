@@ -4,7 +4,7 @@ AI Engineer and Solutions Architect building agentic systems from Lima, Peru.
 
 Currently shipping production AI retrieval systems at TRANZACT and cost-optimized serverless platforms at UNACEM.
 
-_Build. Break. Learn. Repeat._
+> _"Build. Break. Learn. Repeat."_
 
 ### What I build
 

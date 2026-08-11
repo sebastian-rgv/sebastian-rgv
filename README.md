@@ -1,20 +1,22 @@
-**Hi, I'm Sebastian 🤖**
-📍 **Lima, Peru** · 🧱 **AI engineer & solutions architect building agentic systems that ship**
+## Sebastian Garcia ~ AI Engineer
 
-The agent layer is getting commoditized — Claude, Codex, Cursor and Gemini are racing each other. My time goes into the layer _above_: production RAG pipelines, workflow automation, and cloud architecture that compound across model swaps. The kind of tooling you don't have to rebuild when you switch harnesses.
+AI Engineer and Solutions Architect building agentic systems from Lima, Peru.
+
+Currently shipping production RAG pipelines with LangChain at TRANZACT and cost-optimized serverless platforms at UNACEM.
 
 _Build. Break. Learn. Repeat._
 
-————
-**🛠️ What I'm building**
+### What I build
 
-- **TZ Flows** — CLI toolkit that turns repetitive engineering work into reusable YAML workflows (40% faster card setup)
-- **RAG pipelines @ TRANZACT** — production semantic search with LangChain + PostgreSQL pgvector
-- **Serverless sales platform @ UNACEM** — cost-optimized AWS architecture (+67% daily quotations)
-- **LexRoute** — legal intake PWA that routes structured briefs via WhatsApp (-60% triage time)
+- [TZ Flows](https://github.com/sebastian-rgv) · CLI toolkit that turns repetitive engineering work into reusable YAML workflows
+- [LexRoute](https://github.com/sebastian-rgv) · Legal intake PWA that routes structured briefs via WhatsApp
+- [Adaptive Exam Coach](https://github.com/sebastian-rgv) · RAG-powered exam prep with personalized quizzes
 
-**🧰 Stack:** LangChain · RAG · Python · C# · TypeScript · Next.js · .NET · AWS · Azure
+### Latest writing
 
-**🎓 Now:** M.Sc. Data Science & AI @ UTEC · MIT MISTI 2027
+- [Hello, World — Welcome to the Blog](https://sebastianrgv.com/blog/hello-world) — 2026-08-10
+- [Building This Portfolio: A Pixel Terminal in Next.js](https://sebastianrgv.com/blog/building-this-portfolio) — 2026-08-09
 
-**📫 Connect:** [sebastianrgv.com](https://sebastianrgv.com) · [LinkedIn](https://www.linkedin.com/in/sebastian-rgv/) · [X](https://x.com/sebastianrgvcom) · s.gvrodrigo@gmail.com
+### Links
+
+[sebastianrgv.com](https://sebastianrgv.com) · [linkedin](https://linkedin.com/in/sebastian-rgv) · [x](https://x.com/sebastianrgvcom) · [email](mailto:s.gvrodrigo@gmail.com)

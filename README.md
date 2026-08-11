@@ -1,41 +1,50 @@
-# Sebastian Garcia
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="sebastian-rgv's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-**AI Engineer & Solutions Architect** — building LangChain, .NET/Python and Next.js services on AWS and Azure, designed for scale and cost-efficiency.
+### Hello there!
 
-🌎 Lima, Peru — open to global remote work
+I'm Sebastian, an AI engineer and solutions architect from Lima, Perú 🇵🇪
 
----
+I build AI-powered platforms... and make sure they scale.
 
-## 🧰 Stack
+Through LangChain, cloud architecture, and clean engineering.
 
-C# · .NET · TypeScript · Python · React · Next.js · LangChain · TensorFlow · PostgreSQL · SQL Server · DynamoDB · Azure · AWS · Docker · Power BI
+I've spent the last years deep in the technical side: production RAG pipelines, cost-optimized serverless platforms, and increasingly, AI agents and workflow automation.
 
-## 💼 Experience
+These days, I'm focused on turning AI research into products people actually use — from generative AI copilots to intelligent automation that ships.
 
-- **TRANZACT** — Senior Software Engineer (2024 → present) · GenAI automation, production RAG pipelines (LangChain + PostgreSQL pgvector), AWS architecture, tz-flows workflow automation
-- **UNACEM** — Software Architect (2021 → present) · cost-optimized serverless AWS sales platform (+67% daily quotations), dashboards for 20+ executives
-- **Ernst & Young** — Software Engineer (2022–2024) · compliance-ready risk platforms with .NET, React, Azure and Power BI
+Currently building:
 
-## 🎓 Education
+* [TZ Flows](https://github.com/sebastian-rgv) — CLI toolkit that turns repetitive engineering work into reusable YAML workflows (40% faster card setup)
+* **RAG pipelines** at TRANZACT — production semantic search with LangChain + PostgreSQL pgvector
+* **Serverless sales platform** at UNACEM — cost-optimized AWS architecture (+67% daily quotations)
 
-- **M.Sc. Data Science & AI** — University of Engineering and Technology (UTEC), 2026–2028
-- **AI & Data Science Immersion** — MIT MISTI, 2027
-- **BSc Mechatronics Engineering** — Peruvian University of Applied Sciences (UPC)
+Other things I've built:
 
-## 🔭 Currently
+* [LexRoute](https://github.com/sebastian-rgv) — legal intake PWA that routes structured briefs via WhatsApp (-60% triage time)
+* **Adaptive Exam Coach** — RAG-powered exam prep with personalized quizzes
+* **Pediatric Monitoring** — newborn data tracking for early anemia detection
+* **Autism Screening Suite** — clinician platform for early behavioral risk markers
 
-- Master's in Data Science & AI
-- Cloud cost governance, LangChain evaluators, clean architecture playbooks
+Stack I work with:
 
-## 🛠️ Selected work
+* **AI/ML**: LangChain, LangGraph, RAG, TensorFlow, AI Agents, Vector Databases
+* **Cloud**: AWS (Solutions Architect), Azure, Docker, Terraform, CI/CD
+* **Languages**: Python, C#, TypeScript
+* **Web**: Next.js, React, .NET, FastAPI, NestJS
 
-- **TZ Flows** — CLI toolkit that turns repetitive engineering work into reusable YAML workflows (40% faster card setup)
-- **LexRoute** — PWA for legal intake that routes structured briefs via WhatsApp (-60% triage time)
-- **Adaptive Exam Coach** — RAG-powered exam prep with personalized quizzes
+Currently learning:
 
-## 📫 Connect
+* M.Sc. in Data Science & AI @ UTEC (2026–2028)
+* MIT MISTI — AI & Data Science Immersion (2027)
+* Cloud cost governance, LangChain evaluators, clean architecture playbooks
 
-- 🌐 [sebastianrgv.com](https://sebastianrgv.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-rgv/)
-- 🐦 [X / Twitter](https://x.com/sebastianrgvcom)
-- 📧 s.gvrodrigo@gmail.com
+📫 Let's connect:
+
+* 🌐 [sebastianrgv.com](https://sebastianrgv.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-rgv/)
+* 🐦 [X / Twitter](https://x.com/sebastianrgvcom)
+* 📧 s.gvrodrigo@gmail.com

@@ -2,7 +2,7 @@
 
 Software Engineer building agentic systems from Lima, Peru.
 
-Currently shipping production AI retrieval systems at TRANZACT and cost-optimized serverless platforms at UNACEM.
+Currently shipping production AI retrieval systems at TRANZACT.
 
 > _"Build. Break. Learn. Repeat."_
 

@@ -9,6 +9,7 @@ Currently shipping production AI retrieval systems at TRANZACT.
 ### What I build
 
 - [QuartoPress](https://github.com/sebastian-rgv/quartopress) · Convierte `.qmd`/`.md` a HTML, PDF y notebooks Jupyter, 100% en el navegador con Pandoc (WASM)
+- [agentcost](https://github.com/sebastian-rgv/agentcost) · CLI para estimar y rastrear costos de agentes de IA (LLM) con conteo real de tokens
 - [TZ Flows](https://github.com/sebastian-rgv) · CLI toolkit that turns repetitive engineering work into reusable YAML workflows
 - [LexRoute](https://github.com/sebastian-rgv) · Legal intake PWA that routes structured briefs via WhatsApp
 - [Adaptive Exam Coach](https://github.com/sebastian-rgv) · RAG-powered exam prep with personalized quizzes

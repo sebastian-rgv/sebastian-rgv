@@ -8,11 +8,10 @@ Currently shipping production AI retrieval systems at TRANZACT.
 
 ### What I build
 
+- [Desku](https://github.com/sebastian-rgv/desku) · Reúne en un solo lugar las promociones de comercios según tu tarjeta: scraping de BCP, Interbank y Falabella, normalizado en SQLite con índice en memoria O(1)
 - [QuartoPress](https://github.com/sebastian-rgv/quartopress) · Convierte `.qmd`/`.md` a HTML, PDF y notebooks Jupyter, 100% en el navegador con Pandoc (WASM)
+- [TZ Flows](https://github.com/sebastian-rgv/tz-flows) · CLI toolkit that turns repetitive engineering work into reusable YAML workflows
 - [agentcost](https://github.com/sebastian-rgv/agentcost) · CLI para estimar y rastrear costos de agentes de IA (LLM) con conteo real de tokens
-- [TZ Flows](https://github.com/sebastian-rgv) · CLI toolkit that turns repetitive engineering work into reusable YAML workflows
-- [LexRoute](https://github.com/sebastian-rgv) · Legal intake PWA that routes structured briefs via WhatsApp
-- [Adaptive Exam Coach](https://github.com/sebastian-rgv) · RAG-powered exam prep with personalized quizzes
 
 ### Latest writing
 
